@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# E-BookStore
+
+E-BookStore is a website that is used for the process of buying and selling books
+
+### Wireframe :
+
+https://www.figma.com/file/wNDIdpUxIIB6v8rePS8n6B/E-BookStore?node-id=0%3A1
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
